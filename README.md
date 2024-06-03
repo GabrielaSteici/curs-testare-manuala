@@ -1,0 +1,1 @@
+# curs-testare-manuala
