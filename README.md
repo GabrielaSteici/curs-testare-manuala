@@ -22,4 +22,4 @@
   </li>
   <li>Fourth item</li>
 </ol>
-Link catre fisier [Git repo screenshot](link)
+Link catre fisier https://github.com/GabrielaSteici/curs-testare-manuala/blob/main/hqdefault.jpg
