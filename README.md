@@ -23,3 +23,4 @@
   <li>Fourth item</li>
 </ol>
 Link catre fisier https://github.com/GabrielaSteici/curs-testare-manuala/blob/main/hqdefault.jpg
+![Daily report]https://github.com/GabrielaSteici/curs-testare-manuala/blob/main/hqdefault.jpg
